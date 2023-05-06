@@ -3,3 +3,6 @@ input/
 logs/
 wandb/
 emergency.ipynb
+use_inceptionv31.ipynb
+IV31_meninioma_false.jpg
+InceptionV31-confusion_matrix.png
